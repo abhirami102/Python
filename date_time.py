@@ -4,7 +4,7 @@ date:08-10-24
 """
 
 from datetime import datetime
-from http.cookiejar import cut_port_re
+
 
 current_time=datetime.now()
 print(current_time)
