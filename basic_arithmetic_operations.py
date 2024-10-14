@@ -11,7 +11,7 @@ num3=int(input("Enter a third number:"))
 
 add=num1+num2
 print("The sum of", num1, "and",num2,"is:",add)
-subtract=num2-num1
+subtract=num1-num2
 print("The difference when",num2,"is sutracted from",num1,"is:",subtract)
 multiply=num1*num2
 print("The product of",num1,"and",num2,"is:",multiply)
