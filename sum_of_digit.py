@@ -9,4 +9,4 @@ while number>0:
     r=number%10
     number=number//10
     sum=sum+r
-print("sum of digit of the number=",sum)
+print("sum of digits of the number is:",sum)
